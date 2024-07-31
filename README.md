@@ -30,7 +30,7 @@ cd Stock-Price-Prediction
 ```
 ### Run the Jupyter notebook:
 ```bash
-jupyter notebook "LSTM Model.ipynb"
+jupyter notebook "LSTM Model(AAPL).ipynb"
 ```
 Follow the steps in the notebook to fetch stock data, preprocess it, and train the LSTM model.
 ## Project Structure
