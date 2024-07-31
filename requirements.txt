@@ -4,7 +4,9 @@ pandas
 numpy
 MinMaxScaler
 Sequential
-Dense,LSTM, Input
+Dense
+LSTM
+Input
 MeanSquaredError
 matplotlib.pyplot
 yfinance
