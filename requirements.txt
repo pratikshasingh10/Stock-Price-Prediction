@@ -1,7 +1,10 @@
-
+math
+pandas_datareader 
 pandas
 numpy
-matplotlib
+MinMaxScaler
+Sequential
+Dense,LSTM, Input
+MeanSquaredError
+matplotlib.pyplot
 yfinance
-pandas_datareader
-tensorflow
